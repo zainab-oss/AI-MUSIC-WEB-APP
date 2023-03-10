@@ -1,0 +1,17 @@
+.heading {
+    box-shadow: inset;
+    font-size: 23px;
+    width: 100%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.note {
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+}
+
+body {
+    background-size: cover;
+}
