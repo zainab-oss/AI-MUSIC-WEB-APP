@@ -1,3 +1,9 @@
+
+body 
+{
+    background-size: cover;
+}
+
 .heading {
     box-shadow: inset;
     font-size: 23px;
@@ -14,4 +20,10 @@
 
 body {
     background-size: cover;
+}
+
+canvas
+{
+    border: 5px solid brown;
+    border-radius: 20px;
 }
